@@ -3,6 +3,9 @@
 ## Introduction
 To accommodate the urgent requirement of emerging fields and the advance of Heterogeneous Graph Neural Networks (HGNNs), we build a new benchmark for two new fields: risky product detection (ICDM) and takeout recommendation (MTWM). Besides that, we establish benchmark interfaces with over 30 heterogeneous graph datasets from other fields and providea powerful and novel toolkit to research the charactertistics of graph datasets. All of the above is publicly available jusy by several codes.
 
+## Attention
+This work now is deployed into [utils of OpenHGNN](https://github.com/BUPT-GAMMA/OpenHGNN/tree/main/openhgnn/utils).
+
 ## Get Started
 ### Python environment:
 ```bash
